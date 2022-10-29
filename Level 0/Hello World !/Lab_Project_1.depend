@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1551638553 source:c:\users\admin\desktop\adel c\hello world !\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1551638553 source:c:\users\admin\desktop\adel c\level 1\hello world !\main.c
-	<stdio.h>
-	<stdlib.h>
-
