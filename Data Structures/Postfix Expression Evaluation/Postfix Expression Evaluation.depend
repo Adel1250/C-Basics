@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1584045392 source:f:\adel c\data structures i\postfix expression evaluation\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<math.h>
-
