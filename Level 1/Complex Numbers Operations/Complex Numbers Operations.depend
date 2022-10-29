@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575401515 source:f:\adel c\level 1\complex numbers operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

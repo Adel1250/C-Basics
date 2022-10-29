@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552243455 source:c:\users\admin\desktop\adel c\temperature converter\main.c
+	<stdio.h>
+	<stdlib.h>
+

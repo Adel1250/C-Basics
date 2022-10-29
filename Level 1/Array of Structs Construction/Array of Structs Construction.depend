@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594999725 source:d:\adel c\level 1\array of structs construction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590272534 source:f:\adel c\level 1\string splitting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590272536 source:d:\adel c&c++\level 1\string splitting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

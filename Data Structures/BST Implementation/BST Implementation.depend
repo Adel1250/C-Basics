@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623352176 source:d:\adel c&c++\data structures i\bst implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

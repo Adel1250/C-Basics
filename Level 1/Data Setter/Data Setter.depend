@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578423462 source:f:\adel c\level 1\data setter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

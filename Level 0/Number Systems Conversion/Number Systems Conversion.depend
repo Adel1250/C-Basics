@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569204944 source:c:\users\admin\desktop\adel c\level 1\number systems conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1569603506 source:c:\users\admin\desktop\adel c\level 0\number systems conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1597361554 source:d:\adel c&c++\level 0\number systems conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

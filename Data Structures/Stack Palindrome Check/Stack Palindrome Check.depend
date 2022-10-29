@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583097313 source:f:\adel c\data structures i\stack palindrome check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

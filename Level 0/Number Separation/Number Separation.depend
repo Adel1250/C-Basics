@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552858620 source:c:\users\admin\desktop\adel c\number separation\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1552858764 source:c:\users\admin\desktop\adel c\level 1\number separation\main.c
+	<stdio.h>
+	<stdlib.h>
+

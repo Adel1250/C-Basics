@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595001503 source:d:\adel c\level 1\enumeration calender\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

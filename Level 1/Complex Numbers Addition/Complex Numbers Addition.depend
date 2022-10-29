@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575331849 source:f:\adel c\level 1\complex numbers addition\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

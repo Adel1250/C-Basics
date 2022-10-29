@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575398793 source:f:\adel c\level 1\complex number read\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584046171 source:f:\adel c\data structures i\infix to postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

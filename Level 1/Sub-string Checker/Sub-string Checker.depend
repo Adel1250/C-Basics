@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575423163 source:f:\adel c\level 1\sub-string checker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

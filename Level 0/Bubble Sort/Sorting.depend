@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1558452395 source:c:\users\admin\desktop\adel c\level 1\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558735162 source:c:\users\admin\desktop\adel c\level 1\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558735162 source:c:\users\admin\desktop\adel c\level 0\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594947946 source:d:\adel c\level 0\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621009699 source:d:\adel c&c++\level 0\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

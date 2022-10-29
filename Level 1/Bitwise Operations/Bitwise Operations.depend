@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594850406 source:d:\adel c\level 1\bitwise operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
